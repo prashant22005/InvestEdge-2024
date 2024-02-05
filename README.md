@@ -40,12 +40,3 @@ This document provides information about the best banks for investment in 2024, 
 - Customers: 30 million
 
 ## Nifty Bank Insights
-
-| Bank               | Share Price | Assets ($ billion) | Liabilities ($ billion) |
-|--------------------|-------------|---------------------|--------------------------|
-| Panjab National Bank | 124.9       | 184.46              | 171.6                    |
-| Kotak Mahindra Bank  | 1824.35     | 81.65               | 67.1                     |
-| State Bank of India  | 648         | 759.18              | 551.7                    |
-| Bandhan Bank         | 228.9       | 18.35               | -                        |
-
-
